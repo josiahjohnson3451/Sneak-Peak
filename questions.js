@@ -2,13 +2,14 @@
 //Part 1: Import Area
 //Part 1.5: Global (within this file) section
 //Part 2: logic / function part where you write javascript
-function App(){
+
+/*function App(){
 
     return (
         // Part 3: UI area, whats displayed and looks like HTML
     )
 }
-/*
+
 - What are the Questions YOU have?
 - What is VIte?
 - What is ChakraUI?
